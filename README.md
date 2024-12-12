@@ -4,7 +4,7 @@
 ## Description
 Проект UI-автотестов на Python.
 
-Тестовая документация: https://docs.google.com/spreadsheets/d/1WskjPgXqzlgsQCBSVYew9OqgGjL0A-3zhIn-jzH4yMA/edit?gid=1640113526#gid=1640113526
+Тестовая документация: https://docs.google.com/spreadsheets/d/1WskjPgXqzlgsQCBSVYew9OqgGjL0A-3zhIn-jzH4yMA/edit?usp=sharing
 
 Тестовое окружение:
 1. OS - Windows 10 Pro 22H2
